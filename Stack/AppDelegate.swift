@@ -2,8 +2,6 @@
 //  AppDelegate.swift
 //  Stack
 //
-//  Created by Daffolapmac on 20/04/18.
-//  Copyright © 2018 Daffolapmac. All rights reserved.
 //
 
 import UIKit
